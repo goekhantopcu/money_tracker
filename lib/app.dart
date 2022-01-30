@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:money_tracker/routes/initial_route.dart';
+import 'package:money_tracker/view/initial_route.dart';
 
 class MoneyTrackerApp extends StatelessWidget {
   const MoneyTrackerApp({Key? key}) : super(key: key);
